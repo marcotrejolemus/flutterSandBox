@@ -16,7 +16,8 @@ This repo is my personal learning space to:
 | Project Name      | Description                              | Status      |
 |-------------------|------------------------------------------|-------------|
 | `hello_world`     | A simple Hello World Flutter app         | ✅ Completed |
-| `counter_app`     | Basic state management with setState     | ✅ Completed |
+| `namer_app`       | A simple Random message idea app         | ✅ Completed | 
+| `counter_app`     | Basic state management with setState     | 🚧 In Progress|
 | `todo_list`       | A simple to-do app with persistent data  | 🚧 In Progress |
 | `weather_app`     | Fetching and displaying API data         | ⏳ Planned   |
 
